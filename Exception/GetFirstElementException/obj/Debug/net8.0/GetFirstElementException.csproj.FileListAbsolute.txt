@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\bin\Debug\net8.0\GetFirstElementException.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\bin\Debug\net8.0\GetFirstElementException.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\bin\Debug\net8.0\GetFirstElementException.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\bin\Debug\net8.0\GetFirstElementException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\bin\Debug\net8.0\GetFirstElementException.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\GetFirstElementException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\GetFirstElementException.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\GetFirstElementException.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\GetFirstElementException.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\GetFirstElementException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\refint\GetFirstElementException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\GetFirstElementException.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\GetFirstElementException.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\GetFirstElementException\obj\Debug\net8.0\ref\GetFirstElementException.dll

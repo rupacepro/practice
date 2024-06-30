@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\ApiFetch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\ApiFetch.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\ApiFetch.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\ApiFetch.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\bin\Debug\net8.0\ApiFetch.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\bin\Debug\net8.0\ApiFetch.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\bin\Debug\net8.0\ApiFetch.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\bin\Debug\net8.0\ApiFetch.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\bin\Debug\net8.0\ApiFetch.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\ApiFetch.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\refint\ApiFetch.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\ApiFetch.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\ApiFetch.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\ApiFetch\ApiFetch\obj\Debug\net8.0\ref\ApiFetch.dll

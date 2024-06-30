@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\bin\Debug\net8.0\SumOfEvenNumbers.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\bin\Debug\net8.0\SumOfEvenNumbers.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\bin\Debug\net8.0\SumOfEvenNumbers.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\bin\Debug\net8.0\SumOfEvenNumbers.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\bin\Debug\net8.0\SumOfEvenNumbers.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\SumOfEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\SumOfEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\SumOfEvenNumbers.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\SumOfEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\SumOfEvenNumbers.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\refint\SumOfEvenNumbers.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\SumOfEvenNumbers.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\SumOfEvenNumbers.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\UnitTests\SumOfEvenNumbers\obj\Debug\net8.0\ref\SumOfEvenNumbers.dll

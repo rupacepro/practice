@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\bin\Debug\net8.0\StringExtension.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\bin\Debug\net8.0\StringExtension.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\bin\Debug\net8.0\StringExtension.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\bin\Debug\net8.0\StringExtension.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\bin\Debug\net8.0\StringExtension.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\StringExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\StringExtension.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\StringExtension.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\StringExtension.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\StringExtension.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\refint\StringExtension.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\StringExtension.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\StringExtension.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\StringExtension\obj\Debug\net8.0\ref\StringExtension.dll

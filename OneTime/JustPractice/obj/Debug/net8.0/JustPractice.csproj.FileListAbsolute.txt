@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\bin\Debug\net8.0\JustPractice.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\bin\Debug\net8.0\JustPractice.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\bin\Debug\net8.0\JustPractice.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\bin\Debug\net8.0\JustPractice.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\bin\Debug\net8.0\JustPractice.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\JustPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\JustPractice.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\JustPractice.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\JustPractice.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\JustPractice.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\refint\JustPractice.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\JustPractice.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\JustPractice.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\JustPractice\obj\Debug\net8.0\ref\JustPractice.dll

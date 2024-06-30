@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\bin\Debug\net8.0\file.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\bin\Debug\net8.0\file.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\bin\Debug\net8.0\file.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\bin\Debug\net8.0\file.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\bin\Debug\net8.0\file.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\file.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\file.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\file.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\file.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\refint\file.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\file.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\file.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\file\file\obj\Debug\net8.0\ref\file.dll

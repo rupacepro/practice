@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\bin\Debug\net8.0\Dice Game.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\bin\Debug\net8.0\Dice Game.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\bin\Debug\net8.0\Dice Game.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\bin\Debug\net8.0\Dice Game.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\bin\Debug\net8.0\Dice Game.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\Dice Game.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\Dice Game.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\Dice Game.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\refint\Dice Game.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\Dice Game.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\Dice Game.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game\Dice Game\obj\Debug\net8.0\ref\Dice Game.dll

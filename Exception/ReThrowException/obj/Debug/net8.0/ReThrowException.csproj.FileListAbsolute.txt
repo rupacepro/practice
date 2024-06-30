@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\bin\Debug\net8.0\ReThrowException.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\bin\Debug\net8.0\ReThrowException.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\bin\Debug\net8.0\ReThrowException.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\bin\Debug\net8.0\ReThrowException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\bin\Debug\net8.0\ReThrowException.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\ReThrowException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\ReThrowException.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\ReThrowException.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\ReThrowException.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\ReThrowException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\refint\ReThrowException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\ReThrowException.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\ReThrowException.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\ReThrowException\obj\Debug\net8.0\ref\ReThrowException.dll

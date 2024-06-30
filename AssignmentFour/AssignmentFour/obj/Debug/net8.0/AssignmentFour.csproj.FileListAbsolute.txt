@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\bin\Debug\net8.0\AssignmentFour.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\bin\Debug\net8.0\AssignmentFour.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\bin\Debug\net8.0\AssignmentFour.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\bin\Debug\net8.0\AssignmentFour.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\bin\Debug\net8.0\AssignmentFour.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\AssignmentFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\AssignmentFour.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\AssignmentFour.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\AssignmentFour.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\AssignmentFour.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\refint\AssignmentFour.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\AssignmentFour.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\AssignmentFour.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\AssignmentFour\AssignmentFour\obj\Debug\net8.0\ref\AssignmentFour.dll

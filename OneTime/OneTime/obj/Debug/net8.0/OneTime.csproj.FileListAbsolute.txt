@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\bin\Debug\net8.0\OneTime.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\bin\Debug\net8.0\OneTime.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\bin\Debug\net8.0\OneTime.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\bin\Debug\net8.0\OneTime.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\bin\Debug\net8.0\OneTime.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\OneTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\OneTime.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\OneTime.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\OneTime.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\OneTime.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\refint\OneTime.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\OneTime.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\OneTime.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\OneTime\obj\Debug\net8.0\ref\OneTime.dll

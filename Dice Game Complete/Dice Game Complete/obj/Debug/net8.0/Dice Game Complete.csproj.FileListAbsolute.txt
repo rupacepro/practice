@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\bin\Debug\net8.0\Dice Game Complete.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\bin\Debug\net8.0\Dice Game Complete.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\bin\Debug\net8.0\Dice Game Complete.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\bin\Debug\net8.0\Dice Game Complete.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\bin\Debug\net8.0\Dice Game Complete.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\Dice Game Complete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\Dice Game Complete.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\Dice Game Complete.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\Dice Game Complete.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\Dice Game Complete.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\refint\Dice Game Complete.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\Dice Game Complete.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\Dice Game Complete.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Dice Game Complete\Dice Game Complete\obj\Debug\net8.0\ref\Dice Game Complete.dll

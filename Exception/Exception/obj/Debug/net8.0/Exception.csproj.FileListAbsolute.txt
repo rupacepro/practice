@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\bin\Debug\net8.0\Exception.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\bin\Debug\net8.0\Exception.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\bin\Debug\net8.0\Exception.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\bin\Debug\net8.0\Exception.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\bin\Debug\net8.0\Exception.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\Exception.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\Exception.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\Exception.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\refint\Exception.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\Exception.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\Exception.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Exception\Exception\obj\Debug\net8.0\ref\Exception.dll

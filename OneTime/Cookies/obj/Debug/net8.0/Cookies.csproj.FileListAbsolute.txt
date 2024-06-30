@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\bin\Debug\net8.0\Cookies.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\bin\Debug\net8.0\Cookies.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\bin\Debug\net8.0\Cookies.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\bin\Debug\net8.0\Cookies.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\bin\Debug\net8.0\Cookies.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\Cookies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\Cookies.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\Cookies.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\Cookies.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\Cookies.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\refint\Cookies.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\Cookies.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\Cookies.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\OneTime\Cookies\obj\Debug\net8.0\ref\Cookies.dll
