@@ -11,7 +11,7 @@ var board = new char[3, 3]
 
 char player = 'O';
 
-ticTacToe ticTacToe = new ticTacToe(board);
+TicTacToe ticTacToe = new TicTacToe(board);
 if (ticTacToe.isWonBy(player))
 {
     Console.WriteLine($"{player} won!");
@@ -21,10 +21,10 @@ else
     Console.WriteLine($"{player} lose!");
 }
 
-class ticTacToe
+class TicTacToe
 {
     private readonly char[,] _board = new char[3, 3];
-    public ticTacToe(char[,] board)
+    public TicTacToe(char[,] board)
     {
         _board = board;
     }
