@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\bin\Debug\net8.0\TaskResult.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\bin\Debug\net8.0\TaskResult.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\bin\Debug\net8.0\TaskResult.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\bin\Debug\net8.0\TaskResult.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\bin\Debug\net8.0\TaskResult.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\TaskResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\TaskResult.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\TaskResult.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\TaskResult.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\TaskResult.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\TaskResult.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\refint\TaskResult.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\TaskResult.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\TaskResult.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\TaskResult\obj\Debug\net8.0\ref\TaskResult.dll
