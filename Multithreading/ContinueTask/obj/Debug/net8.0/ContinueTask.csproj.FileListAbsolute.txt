@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\bin\Debug\net8.0\ContinueTask.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\bin\Debug\net8.0\ContinueTask.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\bin\Debug\net8.0\ContinueTask.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\bin\Debug\net8.0\ContinueTask.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\bin\Debug\net8.0\ContinueTask.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ContinueTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ContinueTask.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ContinueTask.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ContinueTask.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ContinueTask.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ContinueTask.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\refint\ContinueTask.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ContinueTask.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ContinueTask.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ContinueTask\obj\Debug\net8.0\ref\ContinueTask.dll
