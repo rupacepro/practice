@@ -2,6 +2,8 @@
 Console.WriteLine(Environment.ProcessorCount);
 Console.WriteLine($"Main thread's Id: {Thread.CurrentThread.ManagedThreadId}");
 
+
+//creating two tasks
 Task task = new Task(() => PrintPlus(200));
 Task task1 = new Task(()=> PrintMinus(200));
 task.Start();
