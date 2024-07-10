@@ -6,8 +6,11 @@ Console.WriteLine($"Main thread's Id: {Thread.CurrentThread.ManagedThreadId}");
 //creating two tasks
 Task task = new Task(() => PrintPlus(200));
 Task task1 = new Task(()=> PrintMinus(200));
+Task task3 = new Task(() => PrintMinus(200));
+
 task.Start();
 task1.Start();
+task3.Start();
 
 Task.WaitAll(task, task1);
 
