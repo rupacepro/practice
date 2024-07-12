@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\bin\Debug\net8.0\CancelationOfTask.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\bin\Debug\net8.0\CancelationOfTask.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\bin\Debug\net8.0\CancelationOfTask.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\bin\Debug\net8.0\CancelationOfTask.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\bin\Debug\net8.0\CancelationOfTask.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\CancelationOfTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\CancelationOfTask.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\CancelationOfTask.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\CancelationOfTask.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\CancelationOfTask.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\CancelationOfTask.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\refint\CancelationOfTask.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\CancelationOfTask.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\CancelationOfTask.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CancelationOfTask\obj\Debug\net8.0\ref\CancelationOfTask.dll

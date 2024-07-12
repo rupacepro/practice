@@ -5,6 +5,7 @@ ContinueWith(taskWithResult =>
 Format(taskWithResult.Result)).ContinueWith(result => Console.WriteLine(result.Result));
 
 
+
 string str;
 do
 {
