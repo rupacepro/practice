@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CancelationOfTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0906629bd68ea374afa0ccab909c1124a0630f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c6db6c0e7c297b10a393643d66d4eabf0319b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CancelationOfTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CancelationOfTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
