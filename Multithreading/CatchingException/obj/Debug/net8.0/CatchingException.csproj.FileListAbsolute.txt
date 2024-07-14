@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\bin\Debug\net8.0\CatchingException.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\bin\Debug\net8.0\CatchingException.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\bin\Debug\net8.0\CatchingException.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\bin\Debug\net8.0\CatchingException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\bin\Debug\net8.0\CatchingException.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\CatchingException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\CatchingException.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\CatchingException.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\CatchingException.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\CatchingException.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\CatchingException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\refint\CatchingException.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\CatchingException.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\CatchingException.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CatchingException\obj\Debug\net8.0\ref\CatchingException.dll
