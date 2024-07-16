@@ -16,5 +16,7 @@ Console.ReadKey();
 static void MethodThrowingException()
 {
     Console.WriteLine("Inside method.");
+    Console.WriteLine("Hi");
     throw new Exception("Exception!!!!!!!");
+
 }
