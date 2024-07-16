@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\bin\Debug\net8.0\ThreadMisbehaving.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\bin\Debug\net8.0\ThreadMisbehaving.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\bin\Debug\net8.0\ThreadMisbehaving.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\bin\Debug\net8.0\ThreadMisbehaving.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\bin\Debug\net8.0\ThreadMisbehaving.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ThreadMisbehaving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ThreadMisbehaving.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ThreadMisbehaving.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ThreadMisbehaving.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ThreadMisbehaving.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ThreadMisbehaving.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\refint\ThreadMisbehaving.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ThreadMisbehaving.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ThreadMisbehaving.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\ThreadMisbehaving\obj\Debug\net8.0\ref\ThreadMisbehaving.dll
