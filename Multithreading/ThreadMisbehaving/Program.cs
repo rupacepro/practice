@@ -18,14 +18,21 @@ Console.WriteLine(calculator.num);
 
 class Calculator
 {
+    private object _lock = new object();
     public int num { get; set; }
     public void Increase()
     {
-        num += 1;
+        lock (_lock)
+        {
+            num += 1;
+        }
     }
     public void Decrease()
     {
-        num -= 1;
+        lock (_lock)
+        {
+            num -= 1;
+        }
     }
 
 }
