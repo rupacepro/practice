@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\bin\Debug\net8.0\AsyncAwait.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\bin\Debug\net8.0\AsyncAwait.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\bin\Debug\net8.0\AsyncAwait.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\bin\Debug\net8.0\AsyncAwait.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\bin\Debug\net8.0\AsyncAwait.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\AsyncAwait.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\AsyncAwait.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\refint\AsyncAwait.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\AsyncAwait.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\AsyncAwait\obj\Debug\net8.0\ref\AsyncAwait.dll

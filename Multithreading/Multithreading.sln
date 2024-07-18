@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatchingException", "Catchi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadMisbehaving", "ThreadMisbehaving\ThreadMisbehaving.csproj", "{7757E4CA-D7A1-4830-B864-0F0E3FBB8CD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{B9F3B6B7-7FB1-4204-9AC5-93DCE16A2A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountriesAPIAsync", "CountriesAPIAsync\CountriesAPIAsync.csproj", "{4B4D2489-E02A-43BF-BE52-893B2DF072E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{7757E4CA-D7A1-4830-B864-0F0E3FBB8CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7757E4CA-D7A1-4830-B864-0F0E3FBB8CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7757E4CA-D7A1-4830-B864-0F0E3FBB8CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F3B6B7-7FB1-4204-9AC5-93DCE16A2A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F3B6B7-7FB1-4204-9AC5-93DCE16A2A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F3B6B7-7FB1-4204-9AC5-93DCE16A2A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F3B6B7-7FB1-4204-9AC5-93DCE16A2A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4D2489-E02A-43BF-BE52-893B2DF072E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4D2489-E02A-43BF-BE52-893B2DF072E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4D2489-E02A-43BF-BE52-893B2DF072E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4D2489-E02A-43BF-BE52-893B2DF072E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

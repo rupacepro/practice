@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\bin\Debug\net8.0\CountriesAPIAsync.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\bin\Debug\net8.0\CountriesAPIAsync.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\bin\Debug\net8.0\CountriesAPIAsync.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\bin\Debug\net8.0\CountriesAPIAsync.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\bin\Debug\net8.0\CountriesAPIAsync.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\CountriesAPIAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\CountriesAPIAsync.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\CountriesAPIAsync.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\CountriesAPIAsync.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\CountriesAPIAsync.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\CountriesAPIAsync.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\refint\CountriesAPIAsync.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\CountriesAPIAsync.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\CountriesAPIAsync.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\CountriesAPIAsync\obj\Debug\net8.0\ref\CountriesAPIAsync.dll
