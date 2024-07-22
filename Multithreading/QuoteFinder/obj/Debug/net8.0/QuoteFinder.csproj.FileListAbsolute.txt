@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\bin\Debug\net8.0\QuoteFinder.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\bin\Debug\net8.0\QuoteFinder.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\bin\Debug\net8.0\QuoteFinder.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\bin\Debug\net8.0\QuoteFinder.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\bin\Debug\net8.0\QuoteFinder.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\QuoteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\QuoteFinder.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\QuoteFinder.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\QuoteFinder.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\QuoteFinder.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\QuoteFinder.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\refint\QuoteFinder.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\QuoteFinder.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\QuoteFinder.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\Multithreading\QuoteFinder\obj\Debug\net8.0\ref\QuoteFinder.dll
