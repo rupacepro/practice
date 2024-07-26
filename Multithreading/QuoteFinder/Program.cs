@@ -16,6 +16,7 @@ try
         numOfPages, quotesPerPage);
     consoleReader.ShowMessage("Data is ready.");
 
+    //CALLING PROCESS METHOD
     Process(data, wordToSearch);
 }
 catch (Exception ex)
