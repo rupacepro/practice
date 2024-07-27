@@ -52,7 +52,7 @@ void ProcessPage(string page, string wordToSearch)
 
 bool ContainsWord(string quoteText, string wordToSearch)
 {
-    char[] splitter = { ' ', '\t', '.', ',', '?', '\'', '"', ':', ';', '!'};
+    char[] splitter = { ' ', '\t', '.', ',', '?', '\'', '"', ':', ';', '!', '-'};
     var split = quoteText.Split(splitter);
     foreach(var word in split)
     {
