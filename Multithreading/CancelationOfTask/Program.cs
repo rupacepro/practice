@@ -8,7 +8,7 @@ Task task = Task.Run(
     () => NeverEndingMethod(cancelationTokenSource),
     cancelationTokenSource.Token);
 
-string userInput;
+string? userInput;
 
 do
 {
