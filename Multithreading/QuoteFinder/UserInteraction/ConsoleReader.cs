@@ -5,7 +5,7 @@ public class ConsoleReader: IUserInteractor
 {
     public string ReadSingleWord(string message)
     {
-        string input;
+        string? input;
         do
         {
             Console.WriteLine(message);
