@@ -59,6 +59,36 @@ public class SinglyLinkedList
         }
     }
 
+
+    public void deleteMiddleNode()
+    {
+        if(head == null && head.Next == null)
+        {
+            return;
+        }
+
+        Node current = head;
+        int length = 0;
+        while(current != null)
+        {
+            current = current.Next;
+            length++;
+        }
+
+        int middleNode = length / 2;
+        Node prev = null;
+        current = head;
+        for(int i = 0; i < middleNode; i++)
+        {
+            prev = current;
+            current = current.Next;
+        }
+        if (prev != null && current != null)
+        {
+            prev.Next = current.Next;
+        }
+    }
+
     public void PrintList()
     {
         Node current = head;
@@ -78,7 +108,7 @@ public class SinglyLinkedList
         singlyLinkedList.AddLast(3);
         singlyLinkedList.PrintList();
 
-        singlyLinkedList.Remove(2);
+        singlyLinkedList.deleteMiddleNode();
 
         singlyLinkedList.PrintList();
     }
