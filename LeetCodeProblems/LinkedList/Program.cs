@@ -22,14 +22,14 @@ public class SinglyLinkedList
     public void AddLast(int data)
     {
         Node newNode = new Node(data);
-        if(head == null)
+        if (head == null)
         {
             head = newNode;
         }
         else
         {
             Node current = head;
-            while(current.Next != null)
+            while (current.Next != null)
             {
                 current = current.Next;
             }
@@ -39,21 +39,21 @@ public class SinglyLinkedList
 
     public void Remove(int data)
     {
-        if(head == null)
+        if (head == null)
         {
             return;
         }
-        if(head.Value == data)
+        if (head.Value == data)
         {
             head = head.Next;
             return;
         }
         Node current = head;
-        while(current.Next.Value != data && current.Next != null)
+        while (current.Next.Value != data && current.Next != null)
         {
             current = current.Next;
         }
-        if(current.Next != null)
+        if (current.Next != null)
         {
             current.Next = current.Next.Next;
         }
@@ -62,14 +62,14 @@ public class SinglyLinkedList
 
     public void deleteMiddleNode()
     {
-        if(head == null && head.Next == null)
+        if (head == null && head.Next == null)
         {
             return;
         }
 
         Node current = head;
         int length = 0;
-        while(current != null)
+        while (current != null)
         {
             current = current.Next;
             length++;
@@ -78,7 +78,7 @@ public class SinglyLinkedList
         int middleNode = length / 2;
         Node prev = null;
         current = head;
-        for(int i = 0; i < middleNode; i++)
+        for (int i = 0; i < middleNode; i++)
         {
             prev = current;
             current = current.Next;
@@ -89,10 +89,27 @@ public class SinglyLinkedList
         }
     }
 
+    public void Reverse()
+    {
+        Node current = head;
+        Node reverse = current.Next;
+        Node temp;
+
+        while (reverse != null)
+        {
+            reverse.Next = current;
+            temp = reverse;
+            reverse = current.Next.Next;
+            current = temp;
+        }
+
+        head = current;
+    }
+
     public void PrintList()
     {
         Node current = head;
-        while(current != null)
+        while (current != null)
         {
             Console.WriteLine(current.Value);
             current = current.Next;
@@ -110,6 +127,10 @@ public class SinglyLinkedList
 
         singlyLinkedList.deleteMiddleNode();
 
+        singlyLinkedList.PrintList();
+
+
+        singlyLinkedList.Reverse();
         singlyLinkedList.PrintList();
     }
 }
