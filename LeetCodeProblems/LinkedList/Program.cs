@@ -124,6 +124,7 @@ public class SinglyLinkedList
         singlyLinkedList.AddLast(2);
         singlyLinkedList.AddLast(3);
         singlyLinkedList.PrintList();
+        singlyLinkedList.PrintList();
 
         singlyLinkedList.deleteMiddleNode();
 
