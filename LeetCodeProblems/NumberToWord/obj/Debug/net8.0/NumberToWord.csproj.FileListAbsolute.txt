@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\bin\Debug\net8.0\NumberToWord.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\bin\Debug\net8.0\NumberToWord.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\bin\Debug\net8.0\NumberToWord.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\bin\Debug\net8.0\NumberToWord.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\bin\Debug\net8.0\NumberToWord.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\NumberToWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\NumberToWord.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\NumberToWord.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\NumberToWord.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\NumberToWord.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\NumberToWord.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\refint\NumberToWord.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\NumberToWord.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\NumberToWord.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\NumberToWord\obj\Debug\net8.0\ref\NumberToWord.dll
