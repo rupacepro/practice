@@ -9,7 +9,7 @@ binaryTree.Insert(3);
 //binaryTree.Traverse(binaryTree.root);
 binaryTree.TraverseInOrder(binaryTree.root);
 
-
+hi
 public class TreeNode
 {
     public int val;
