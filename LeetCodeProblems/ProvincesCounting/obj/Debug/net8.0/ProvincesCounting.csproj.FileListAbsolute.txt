@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\bin\Debug\net8.0\ProvincesCounting.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\bin\Debug\net8.0\ProvincesCounting.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\bin\Debug\net8.0\ProvincesCounting.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\bin\Debug\net8.0\ProvincesCounting.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\bin\Debug\net8.0\ProvincesCounting.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ProvincesCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ProvincesCounting.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ProvincesCounting.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ProvincesCounting.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ProvincesCounting.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ProvincesCounting.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\refint\ProvincesCounting.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ProvincesCounting.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ProvincesCounting.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\ProvincesCounting\obj\Debug\net8.0\ref\ProvincesCounting.dll
