@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\bin\Debug\net8.0\MaxSubsequenceScore.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\bin\Debug\net8.0\MaxSubsequenceScore.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\bin\Debug\net8.0\MaxSubsequenceScore.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\bin\Debug\net8.0\MaxSubsequenceScore.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\bin\Debug\net8.0\MaxSubsequenceScore.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\MaxSubsequenceScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\MaxSubsequenceScore.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\MaxSubsequenceScore.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\MaxSubsequenceScore.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\MaxSubsequenceScore.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\MaxSubsequenceScore.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\refint\MaxSubsequenceScore.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\MaxSubsequenceScore.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\MaxSubsequenceScore.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\MaxSubsequenceScore\obj\Debug\net8.0\ref\MaxSubsequenceScore.dll

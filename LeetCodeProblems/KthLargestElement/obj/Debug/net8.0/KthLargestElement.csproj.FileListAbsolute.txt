@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\bin\Debug\net8.0\KthLargestElement.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\bin\Debug\net8.0\KthLargestElement.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\bin\Debug\net8.0\KthLargestElement.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\bin\Debug\net8.0\KthLargestElement.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\bin\Debug\net8.0\KthLargestElement.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\KthLargestElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\KthLargestElement.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\KthLargestElement.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\KthLargestElement.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\KthLargestElement.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\KthLargestElement.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\refint\KthLargestElement.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\KthLargestElement.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\KthLargestElement.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\KthLargestElement\obj\Debug\net8.0\ref\KthLargestElement.dll
