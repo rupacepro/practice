@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KthLargestElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec494edf8930a70921f2b77a4d1873bd1a0a4f36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32f0717268063c2b8c1536a1ac0ef7a0814f2386")]
 [assembly: System.Reflection.AssemblyProductAttribute("KthLargestElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KthLargestElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
