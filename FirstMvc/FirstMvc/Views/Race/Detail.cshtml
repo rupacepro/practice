@@ -1,0 +1,17 @@
+﻿@model Race
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<div class="col-sm-6 col-md-4 col-xl-3 mb-3">
+    <a href="#">
+        <img class="img-thumbnail mb-3" src="@Model.Image" alt="Album screenshot" width="960" height="600">
+        <h5 class="mb-1">@Model.Id</h5>
+    </a>
+    <p class="text-muted">@Model.Description</p>
+    <p class="text-muted">@Model.Address.City</p>
+</div>

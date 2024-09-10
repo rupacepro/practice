@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\bin\Debug\net8.0\IBM1.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\bin\Debug\net8.0\IBM1.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\bin\Debug\net8.0\IBM1.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\bin\Debug\net8.0\IBM1.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\bin\Debug\net8.0\IBM1.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\IBM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\IBM1.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\IBM1.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\IBM1.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\IBM1.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\IBM1.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\refint\IBM1.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\IBM1.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\IBM1.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\LeetCodeProblems\IBM\IBM1\obj\Debug\net8.0\ref\IBM1.dll
