@@ -23,6 +23,7 @@ class Program
                 case 1:
                     House house = GetHouseObject();
                     houses.Add(house);
+                    //message
                     Console.WriteLine("------------------------------\n");
                     Console.WriteLine("A house is added to the list!!");
                     Console.WriteLine($"House Info: \n\n{house.ToString()}");
